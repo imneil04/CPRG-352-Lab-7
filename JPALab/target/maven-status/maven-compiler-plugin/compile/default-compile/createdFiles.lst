@@ -1,0 +1,10 @@
+ca\jpalab7\dataaccess\DBUtil.class
+ca\jpalab7\models\User_.class
+ca\jpalab7\dataaccess\RoleDB.class
+ca\jpalab7\models\Role_.class
+ca\jpalab7\models\Role.class
+ca\jpalab7\models\User.class
+ca\jpalab7\servlets\UserServlet.class
+ca\jpalab7\dataaccess\UserDB.class
+ca\jpalab7\services\UserService.class
+ca\jpalab7\services\RoleService.class
